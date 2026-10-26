@@ -6,8 +6,10 @@
 | --- | --- | --- | --- |
 | [`eseodang-admin/`](eseodang-admin/) | 이서당 관리자 | v1.0 | 인계 완료 |
 | `kiosk/` | 키오스크 | — | 준비 중 |
-| `cloudlearning/` | 클라우드러닝 | — | 준비 중 |
+| → [ssm5719/cl](https://github.com/ssm5719/cl) | 클라우드러닝 | — | 별도 저장소 |
 | `lab241-home/` | 랩241 홈페이지 | — | 준비 중 |
+
+클라우드러닝은 디자인 규칙(`design/`)과 화면 미리보기(`lab/`)를 같이 두느라 [`ssm5719/cl`](https://github.com/ssm5719/cl) 저장소를 따로 씁니다. 쓰는 법은 아래와 같고, 복사할 폴더는 그 저장소의 `design/` 입니다.
 
 ## 개발자가 쓰는 법
 
